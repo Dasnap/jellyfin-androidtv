@@ -29,7 +29,7 @@
         android:required="false" />
 
     <application
-        android:name=".JellyfinApplication"
+        android:name=".JellyfinAsh"
         android:allowBackup="true"
         android:appCategory="video"
         android:banner="@drawable/app_banner"
